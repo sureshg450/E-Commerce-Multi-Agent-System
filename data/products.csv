@@ -1,0 +1,12 @@
+
+product_id,product_name,category,brand,seller,price,stock,description
+P001,iPhone 16,Smartphone,Apple,Amazon,75000,10,Apple smartphone with 128GB storage
+P001,iPhone 16,Smartphone,Apple,Flipkart,73500,5,Apple smartphone with 128GB storage
+P001,iPhone 16,Smartphone,Apple,Reliance Digital,76000,8,Apple smartphone with 128GB storage
+P002,Samsung Galaxy S25,Smartphone,Samsung,Amazon,72000,12,256GB Samsung smartphone
+P002,Samsung Galaxy S25,Smartphone,Samsung,Flipkart,69999,7,256GB Samsung smartphone
+P003,MacBook Air M3,Laptop,Apple,Amazon,110000,4,Apple laptop with M3 processor
+P003,MacBook Air M3,Laptop,Apple,Croma,108000,3,Apple laptop with M3 processor
+P004,Dell Inspiron,Laptop,Dell,Amazon,65000,6,Dell laptop for everyday use
+P005,Sony WH-1000XM6,Headphones,Sony,Amazon,30000,15,Wireless noise cancelling headphones
+P006,Boat Rockerz,Headphones,Boat,Flipkart,2000,25,Bluetooth wireless headphones
