@@ -1,7 +1,3 @@
-# E-Commerce-Multi-Agent-System
-ADK Shopping - E-Commerce Multi-Agent System
-
-
 # ADK Shopping Assistant
 
 A conversational shopping assistant built with the [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/). It searches a local product catalog, helps a customer choose a seller and quantity, collects checkout details, and presents an order summary.
