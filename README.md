@@ -94,3 +94,8 @@ This is a learning/demo project. The product catalog is local CSV data, and cust
 
 - `google-adk`
 - `python-dotenv`
+
+## Result
+
+<img width="1901" height="935" alt="result" src="https://github.com/user-attachments/assets/d011d8bf-e09e-4337-80fc-bc4e36211412" />
+
